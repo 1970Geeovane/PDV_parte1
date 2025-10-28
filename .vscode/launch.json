@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PDV1",
+            "request": "launch",
+            "mainClass": "PDV1",
+            "vmArgs": "-Dsun.security.jgss.native=false"
+        }
+    ]
+}
